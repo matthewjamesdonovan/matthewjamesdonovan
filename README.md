@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matthewjamesdonovan
-- 👀 I’m interested in leftism
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
